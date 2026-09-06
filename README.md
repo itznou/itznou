@@ -87,11 +87,11 @@ I'm a **student** and **tech enthusiast** who loves teaching, building things, a
   />
 </p>
 
+---
+
 
 💬 **Let's Build And Learn Together — Feel Free To Reach Out!**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itznou&color=4C29CF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C29CF,100:00C9FF&height=120&section=footer" width="100%" alt="Footer" />
-
----
